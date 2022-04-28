@@ -89,7 +89,7 @@ Da un ejemplo
 ### Programación del producto
 -Funcionalidad 1:
 -Funcionalidad 2:
-
+-Funcionalidad 5: Archivo eliminarRegistro
 ## Despliegue 📦
 
 _Agrega notas adicionales sobre como hacer deploy_
