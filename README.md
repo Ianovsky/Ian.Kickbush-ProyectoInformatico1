@@ -74,10 +74,9 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## Sector Ventas
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
+-Sección de ventas
 ### Analice las pruebas end-to-end 🔩
 
 _Explica que verifican estas pruebas y por qué_
