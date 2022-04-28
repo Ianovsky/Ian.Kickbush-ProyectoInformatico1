@@ -37,16 +37,13 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 #https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting
 
 
-# Título del Proyecto
+# Diseño del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+-DIseño del proyecto
 
-## Comenzando 🚀
+## Vista principal
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+-Vista principal de la página
 
 ### Pre-requisitos 📋
 
