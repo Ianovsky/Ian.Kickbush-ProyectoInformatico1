@@ -56,10 +56,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 -Arreglo de bugs
 
-## Ejecutando las pruebas ⚙️
+## Sector Ventas
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
+-Sección de ventas
 ### Analice las pruebas end-to-end 🔩
 
 _Explica que verifican estas pruebas y por qué_
