@@ -57,7 +57,12 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 
 ### Sector Ventas
 
--Sección de ventas
+-Actualización del sector de ventas
+
+### Galería
+
+-Galería para mejorar el diseño
+
 
 ## 
 
