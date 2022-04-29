@@ -101,7 +101,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 ## Base de datos
 
 
--Funcionalidad eventos-
+-Funcionalidad eventos actualizado con cambios pedidos por el cliente-
 
 ## Contribuyendo 🖇️
 
