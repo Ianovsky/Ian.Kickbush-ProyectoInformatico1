@@ -76,7 +76,7 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Programación del proyecto
 
--Fallos arreglados en funcionalidad 1-
+Nuevamente arreglo de fallos
 
 ### Analice las pruebas end-to-end 🔩
 
