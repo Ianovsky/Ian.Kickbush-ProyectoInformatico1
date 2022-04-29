@@ -86,13 +86,9 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
+### Desarrollo del producto
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+-Investigación documentada del desarrollo del producto.
 
 ## Despliegue 📦
 
