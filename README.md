@@ -74,29 +74,20 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Programación del proyecto
+## 
 
--Fallos arreglados en funcionalidad 1-
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+### 
 
 ### Programación del producto
+
 
 -Funcionalidad 1: Archivo agregarComentario pedido por el cliente.
 -Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
 -Funcionalidad 3: enviarCorreo actualizado por fallos
 
+-Funcionalidad 5: Archivo eliminarRegistro
 
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+## 
 
 ## Construido con 🛠️
 
