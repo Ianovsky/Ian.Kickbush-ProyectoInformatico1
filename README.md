@@ -54,6 +54,7 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 -Arreglo de bugs
 
 
+
 ### Sector Ventas
 
 -Sección de ventas
@@ -65,14 +66,14 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 ### Programación del producto
 
 
--Funcionalidad 1: Archivo agregarComentario pedido por el cliente.
+-Funcionalidad 1: Archivo agregarComentario pedido por el cliente, actualizado por pedido del mismo.
 -Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
 -Funcionalidad 3: enviarCorreo actualizado por fallos
--Funcionalidad 4: archivo modificar.php
--Funcionalidad 5: Archivo eliminarRegistro
+-Funcionalidad 4: archivo modificar.php actualizado por fallos
+-Funcionalidad 5: Archivo eliminarRegistro actualizado por fallo
 
-## 
-### 
+
+
 
 ### Desarrollo del producto
 
