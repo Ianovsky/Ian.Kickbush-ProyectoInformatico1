@@ -53,24 +53,32 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 
 -Arreglo de bugs
 
-## Sector Ventas
+
+### Sector Ventas
 
 -Sección de ventas
-### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+## 
 
-```
-Da un ejemplo
-```
+### 
+
+### Programación del producto
+
+
+-Funcionalidad 1: Archivo agregarComentario pedido por el cliente.
+-Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
+-Funcionalidad 3: enviarCorreo actualizado por fallos
+-Funcionalidad 4: archivo modificar.php
+-Funcionalidad 5: Archivo eliminarRegistro
+
+## 
+### 
 
 ### Desarrollo del producto
 
 -Investigación documentada del desarrollo del producto.
 
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+## 
 
 
 ## Base de datos
