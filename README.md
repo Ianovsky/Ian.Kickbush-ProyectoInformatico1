@@ -74,25 +74,20 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## 
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+### 
 
 ### Programación del producto
--Funcionalidad 1:
--Funcionalidad 2:
--Funcionalidad 5: Archivo eliminarRegistro
-## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+
+-Funcionalidad 1: Archivo agregarComentario pedido por el cliente.
+-Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
+-Funcionalidad 3: enviarCorreo actualizado por fallos
+
+-Funcionalidad 5: Archivo eliminarRegistro
+
+## 
 
 ## Construido con 🛠️
 
