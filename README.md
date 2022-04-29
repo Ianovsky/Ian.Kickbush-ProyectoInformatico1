@@ -98,9 +98,14 @@ Da un ejemplo
 
 _Agrega notas adicionales sobre como hacer deploy_
 
-## Base de Datos
+
+## Base de datos
+
+
+-Funcionalidad eventos actualizado con cambios pedidos por el cliente-
 
 -Diagrama con información acerca de la base de datos
+
 
 ## Contribuyendo 🖇️
 
