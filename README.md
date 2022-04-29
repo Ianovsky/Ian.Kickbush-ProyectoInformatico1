@@ -98,13 +98,9 @@ Da un ejemplo
 
 _Agrega notas adicionales sobre como hacer deploy_
 
-## Construido con 🛠️
+## Base de Datos
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+-Diagrama con información acerca de la base de datos
 
 ## Contribuyendo 🖇️
 
