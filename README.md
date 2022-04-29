@@ -87,7 +87,12 @@ Da un ejemplo
 ```
 
 ### Programación del producto
+
 -Funcionalidad 1: Archivo agregarComentario pedido por el cliente.
+-Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
+-Funcionalidad 3: enviarCorreo actualizado por fallos
+
+
 
 ## Despliegue 📦
 
