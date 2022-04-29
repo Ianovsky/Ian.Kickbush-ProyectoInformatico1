@@ -102,7 +102,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 ## Base de datos
 
 
--Funcionalidad eventos actualizado con cambios pedidos por el cliente-
+-Funcionalidad evento modificada finalmente para que pueda correr en todos los sistemas operativos
 
 -Diagrama con información acerca de la base de datos
 
