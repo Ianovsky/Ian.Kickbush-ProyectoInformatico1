@@ -76,7 +76,7 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Sector Ventas
 
--Sección de ventas
+-Actualización del sector de ventas
 ### Analice las pruebas end-to-end 🔩
 
 _Explica que verifican estas pruebas y por qué_
