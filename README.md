@@ -53,7 +53,9 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 
 -Arreglo de bugs
 
-## Sector Ventas
+
+
+### Sector Ventas
 
 -Actualización del sector de ventas
 
@@ -61,25 +63,37 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 
 -Galería para mejorar el diseño
 
-### Y las pruebas de estilo de codificación ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+## 
 
-```
-Da un ejemplo
-```
+### 
 
-## Despliegue 📦
+### Programación del producto
 
-_Agrega notas adicionales sobre como hacer deploy_
 
-## Construido con 🛠️
+-Funcionalidad 1: Archivo agregarComentario pedido por el cliente, actualizado por pedido del mismo.
+-Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
+-Funcionalidad 3: enviarCorreo actualizado por fallos
+-Funcionalidad 4: archivo modificar.php actualizado por fallos
+-Funcionalidad 5: Archivo eliminarRegistro actualizado por fallo
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+
+### Desarrollo del producto
+
+-Investigación documentada del desarrollo del producto.
+
+## 
+
+
+## Base de datos
+
+
+-Funcionalidad eventos actualizado con cambios pedidos por el cliente-
+
+-Diagrama con información acerca de la base de datos
+
 
 ## Contribuyendo 🖇️
 
