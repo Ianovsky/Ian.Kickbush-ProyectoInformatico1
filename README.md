@@ -56,13 +56,9 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 ## Sector Ventas
 
 -Sección de ventas
-### Analice las pruebas end-to-end 🔩
+### Galería
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+-Galería para mejorar el diseño
 
 ### Y las pruebas de estilo de codificación ⌨️
 
