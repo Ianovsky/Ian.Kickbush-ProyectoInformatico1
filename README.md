@@ -74,9 +74,9 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## Programación del proyecto
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+-Fallos arreglados en funcionalidad 1-
 
 ### Analice las pruebas end-to-end 🔩
 
@@ -87,8 +87,7 @@ Da un ejemplo
 ```
 
 ### Programación del producto
--Funcionalidad 1:
--Funcionalidad 2:
+-Funcionalidad 1: Archivo agregarComentario pedido por el cliente.
 
 ## Despliegue 📦
 
