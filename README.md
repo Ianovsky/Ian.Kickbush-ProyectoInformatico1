@@ -87,8 +87,9 @@ Da un ejemplo
 ```
 
 ### Programación del producto
--Funcionalidad 1:
--Funcionalidad 2:
+-Funcionalidad 1: agregarComentario
+-Funcionalidad 2: 
+-Funcionalidad 3: enviarCorreo actualizado por fallos
 
 ## Despliegue 📦
 
