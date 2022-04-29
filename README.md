@@ -57,7 +57,7 @@ Da un ejemplo
 ```
 
 ### Instalación 🔧
--Funcionalidad 4: archivo modificar.php
+-Funcionalidad 4: archivo modificar.php actualizado por fallos
 
 ## Ejecutando las pruebas ⚙️
 
