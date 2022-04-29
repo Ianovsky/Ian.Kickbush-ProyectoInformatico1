@@ -37,63 +37,106 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 #https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting
 
 
-# Diseño del Proyecto
+# Título del Proyecto
 
--DIseño del proyecto
+_Acá va un párrafo que describa lo que es el proyecto_
 
-## Vista principal
+## Comenzando 🚀
 
--Corrección de la vista principal de la página
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-### Sector Contactos 📋
-
--Zona de contactos.
-
-### Sector Administración
-
--Arreglo de bugs
+Mira **Deployment** para conocer como desplegar el proyecto.
 
 
+### Pre-requisitos 📋
 
-### Sector Ventas
+_Que cosas necesitas para instalar el software y como instalarlas_
 
--Actualización del sector de ventas
+```
+Da un ejemplo
+```
 
-### Galería
+### Instalación 🔧
 
--Galería para mejorar el diseño
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
+_Dí cómo será ese paso_
 
-## 
+```
+Da un ejemplo
+```
 
-### 
+_Y repite_
 
-### Programación del producto
+```
+hasta finalizar
+```
 
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
--Funcionalidad 1: Archivo agregarComentario pedido por el cliente, actualizado por pedido del mismo.
--Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
--Funcionalidad 3: enviarCorreo actualizado por fallos
--Funcionalidad 4: archivo modificar.php actualizado por fallos
--Funcionalidad 5: Archivo eliminarRegistro actualizado por fallo
+## Ejecutando las pruebas ⚙️
 
+_Explica como ejecutar las pruebas automatizadas para este sistema_
 
+### Analice las pruebas end-to-end 🔩
 
+_Explica que verifican estas pruebas y por qué_
 
-### Desarrollo del producto
+```
+Da un ejemplo
+```
 
--Investigación documentada del desarrollo del producto.
+### Y las pruebas de estilo de codificación ⌨️
 
-## 
+_Explica que verifican estas pruebas y por qué_
 
+```
+Da un ejemplo
+```
 
-## Base de datos
+## Despliegue 📦
 
+_Agrega notas adicionales sobre como hacer deploy_
 
--Funcionalidad evento modificada finalmente para que pueda correr en todos los sistemas operativos
+## Construido con 🛠️
 
--Diagrama con información acerca de la base de datos
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
-## Manual
--Archivos para la instalación local, solucionado el problema de los sistemas operativos.
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
+## Versionado 📌
+
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+---
+⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
