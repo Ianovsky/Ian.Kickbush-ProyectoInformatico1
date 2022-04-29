@@ -43,7 +43,7 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 
 ## Vista principal
 
--Vista principal de la página
+-Corrección de la vista principal de la página
 
 ### Pre-requisitos 📋
 
