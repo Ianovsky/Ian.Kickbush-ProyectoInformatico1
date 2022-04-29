@@ -37,55 +37,58 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 #https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting
 
 
-# Título del Proyecto
+# Diseño del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+-DIseño del proyecto
 
-## Comenzando 🚀
+## Vista principal
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+-Corrección de la vista principal de la página
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+### Sector Contactos 📋
+
+-Zona de contactos.
+
+### Sector Administración
+
+-Arreglo de bugs
 
 
-### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+### Sector Ventas
 
-```
-Da un ejemplo
-```
+-Sección de ventas
 
-### Instalación 🔧
--Funcionalidad 4: archivo modificar.php actualizado por fallos
+## 
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+### 
 
 ### Programación del producto
--Funcionalidad 1:
--Funcionalidad 2:
 
-## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+-Funcionalidad 1: Archivo agregarComentario pedido por el cliente, actualizado por pedido del mismo.
+-Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
+-Funcionalidad 3: enviarCorreo actualizado por fallos
+-Funcionalidad 4: archivo modificar.php actualizado por fallos
+-Funcionalidad 5: Archivo eliminarRegistro actualizado por fallo
 
-## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+### Desarrollo del producto
+
+-Investigación documentada del desarrollo del producto.
+
+## 
+
+
+## Base de datos
+
+
+-Funcionalidad eventos actualizado con cambios pedidos por el cliente-
+
+-Diagrama con información acerca de la base de datos
+
 
 ## Contribuyendo 🖇️
 
