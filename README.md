@@ -48,13 +48,9 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos 📋
+### Sector Contactos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+-Zona de contactos.
 
 ### Sector Administración
 
