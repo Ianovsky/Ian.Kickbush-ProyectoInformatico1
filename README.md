@@ -85,7 +85,7 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 -Funcionalidad 2: cerrar_sesión, relalizar_modificación y procesar_login
 -Funcionalidad 3: enviarCorreo actualizado por fallos
 
--Funcionalidad 5: Archivo eliminarRegistro
+-Funcionalidad 5: Archivo eliminarRegistro actualizado por fallo
 
 ## 
 
