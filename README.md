@@ -90,7 +90,7 @@ After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 
 ## Base de datos
 
 
--Funcionalidad eventos actualizado con cambios pedidos por el cliente-
+-Funcionalidad evento modificada finalmente para que pueda correr en todos los sistemas operativos
 
 -Diagrama con información acerca de la base de datos
 
